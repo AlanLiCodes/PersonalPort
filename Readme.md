@@ -1,3 +1,2 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+# Personal Portfolio
 
